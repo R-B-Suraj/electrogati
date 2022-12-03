@@ -1,4 +1,5 @@
 # Hi, Welcome to Electrogati, Please visit the hosted website on **[Electrogati](https://www.electrogati.com/)**
+# *[My Task and Sample images](https://docs.google.com/presentation/d/1L3UOpNtJC_Eci9CrgzdigEn5Q0qHA_bd/edit?usp=sharing&ouid=110829091806870353297&rtpof=true&sd=true)*
 ## Server Requirements for running
 
 PHP version 7.4 or higher is required, with the following extensions installed:
